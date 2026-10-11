@@ -1,7 +1,7 @@
 # GridOvertake
 ### Where F1 Strategy Meets Grid Stability
 
-[![TrackShift](https://img.shields.io/badge/TrackShift-2026-purple?style=for-the-badge)]()
+
 [![Status](https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
