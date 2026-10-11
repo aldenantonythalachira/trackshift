@@ -1,4 +1,4 @@
-# GridOvertake 🏎️⚡
+# GridOvertake
 ### Where F1 Strategy Meets Grid Stability
 
 [![TrackShift](https://img.shields.io/badge/TrackShift-2026-purple?style=for-the-badge)]()
@@ -16,7 +16,7 @@ Every F1 driver manages a **4 MJ energy budget per lap** — harvest under braki
 
 ---
 
-## 🧠 Core Innovations
+##  Core Innovations
 
 - **Cross-Domain Transfer Learning** — Pre-train on F1 telemetry → fine-tune on Indian grid data. *First to connect these domains.*
 - **Attention-Based RL** — PPO + Multi-Head Attention lets the agent “watch” every grid node, like a strategist monitoring all cars.
@@ -25,7 +25,7 @@ Every F1 driver manages a **4 MJ energy budget per lap** — harvest under braki
 
 ---
 
-## 📊 Validation Snapshot
+##  Validation Snapshot
 
 | Metric | Result |
 |---|---|
@@ -39,7 +39,7 @@ Every F1 driver manages a **4 MJ energy budget per lap** — harvest under braki
 
 ---
 
-## 🏗️ Architecture (at a glance)
+##  Architecture (at a glance)
 F1 + Grid Data → Temporal Fusion Transformer → Graph Neural Network → PPO + Attention → Battery + EV Commands
 
 
